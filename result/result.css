@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.result-box{
+    background-color: rgb(45, 45, 141);
+    margin-left: 35vw;
+    margin-top: 9vw;
+    height: 32vw;
+    width: 32vw;
+    border-radius: 2vw;
+
+}
+.a1{
+    color: aliceblue;
+    padding-top: 1vw;
+    margin-left: 6vw;
+    font-size: 3vw;
+}
+.replay{
+     
+    margin-top: 16vw;
+    margin-left: 9vw;
+    height: 5vw;
+     
+}
+.exit{
+    margin-top: 16.4vw;
+    margin-left: 3vw;
+    height: 4.5vw;
+}
+.button{
+    display: flex;
+    margin-top: 4vw;
+}
+
+.logo{
+    height: 18vw;
+    width: 28vw;
+    /* margin-bottom: 236vw; */
+    position: absolute;
+    margin-left: 2vw;
+    margin-top: -7vw;
+}

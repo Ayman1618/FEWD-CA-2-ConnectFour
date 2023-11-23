@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+*{
+    font-family: 'Permanent Marker';
+    /* background-color: black; */
+}
+
+.logo{
+    text-align: left;
+    margin-top: -18vw;
+    
+}
+body{
+    background-color: black;
+}
+input{
+    width: 20vw;
+    height: 3vw;
+    margin-left: 60vw;
+    /* margin-top: 6vw; */
+}
+
+.box{
+  
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.1vw;
+    align-items: end;
+    margin-top: 15vw;
+    margin-right: 10vw;
+    
+    
+}
+
+#back{
+    position: absolute;
+    
+    margin-top: -8vw;
+    margin-left: 44vw;
+    z-index: -1;
+    width: 50vw;
+
+    
+}
+.form1{
+    margin-top: 6vw;
+    margin-left: 10vw;
+}
+
+.p-1form{
+    margin-right: 22vw;
+    margin-top: -6.9vw;
+}
+
+#logos{
+    height:26vw
+}
+
+.play-button{
+    margin-left: 40vw;
+    margin-top: 5vw;
+    
+}
+
+#play{
+    border-radius: 15px;
+
+}
+
+
